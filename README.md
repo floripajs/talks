@@ -7,7 +7,7 @@
 </h1>
 
 <p align=center>
-    Repositório para submissão, feedback e escolha de talks dos meetups do FloripaJS!
+    Repositório para submissão, feedback e escolha de talks dos meetups do FloripaJS.
 </p>
 
 ## Como faço para enviar minha talk?
