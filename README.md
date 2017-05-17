@@ -2,8 +2,8 @@
   <a href="http://floripajs.org" title="Floripa JS">
     <img alt="FloripaJS Logo" src="http://floripajs.org/assets/img/floripajs-logo.svg" width="250" height="240"/>
     <br>
-    Talks - FloripaJS Meetup
   </a>
+  Talks - FloripaJS Meetup
 </h1>
 
 <p align=center>
