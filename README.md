@@ -1,7 +1,14 @@
-# Talks - FloripaJS Meetup
+<h1 align=center>
+  <a href="http://floripajs.org" title="Floripa JS">
+    <img alt="FloripaJS Logo" src="http://floripajs.org/assets/img/floripajs-logo.svg" width="250" height="240"/>
+    <br>
+    Talks - FloripaJS Meetup
+  </a>
+</h1>
 
-Repositório para submissão, feedback e escolha de talks dos meetups do FloripaJS!
-
+<p align=center>
+    Repositório para submissão, feedback e escolha de talks dos meetups do FloripaJS!
+</p>
 
 ## Como faço para enviar minha talk?
 
